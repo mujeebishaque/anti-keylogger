@@ -11,6 +11,8 @@ This project is GUI-Enhanced version of the following project.
 
 http://www.codingvision.net/security/c-create-secure-desktop-anti-keylogger
 
+##### You can run the executables/application in the debug and release folder for quick demonstration.
+
 ## License
 
 MIT

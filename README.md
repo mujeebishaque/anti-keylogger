@@ -1,11 +1,17 @@
 # Anti-Keylogger
 
 
-###>Anti-keylogger that creates another desktop for writing files. 
+>Anti-keylogger that creates another desktop for writing files. 
 
 
 ![alt text](https://github.com/mistermj/anti-keylogger/blob/master/Screenshot%20(26).png)
 
 
---
+This project is GUI-Enhanced version of the following project.
+
+http://www.codingvision.net/security/c-create-secure-desktop-anti-keylogger
+
+## License
+
+MIT
 

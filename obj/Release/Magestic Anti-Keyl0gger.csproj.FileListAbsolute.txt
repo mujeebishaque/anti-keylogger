@@ -1,0 +1,15 @@
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\bin\Release\Gma.UserActivityMonitor.dll
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\bin\Release\SecureDesktop-GUI.exe
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\bin\Release\SecureDesktop-GUI.pdb
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\obj\Release\Magestic Anti-Keyl0gger.csprojAssemblyReference.cache
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\obj\Release\SecureDesktop_GUI.Main.resources
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\obj\Release\SecureDesktop_GUI.Properties.Resources.resources
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\obj\Release\Magestic Anti-Keyl0gger.csproj.GenerateResource.cache
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\obj\Release\Magestic Anti-Keyl0gger.csproj.CoreCompileInputs.cache
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\obj\Release\SecureDesktop-GUI.exe
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\obj\Release\SecureDesktop-GUI.pdb
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\bin\Release\SecureDesktop-GUI.exe.config
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\obj\Release\Magestic Anti-Keyl0gger.csproj.CopyComplete
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\obj\Release\SecureDesktop_GUI.About_this.resources
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\obj\Release\SecureDesktop_GUI.message_box_custom.resources

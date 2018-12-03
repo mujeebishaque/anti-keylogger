@@ -1,0 +1,11 @@
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\bin\Release\Gma.UserActivityMonitor.dll
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\bin\Release\SecureDesktop-GUI.exe
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\bin\Release\SecureDesktop-GUI.pdb
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\obj\Release\SecureDesktop_GUI.About.resources
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\obj\Release\SecureDesktop_GUI.Main.resources
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\obj\Release\SecureDesktop_GUI.Properties.Resources.resources
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\obj\Release\SecureDesktop-GUI.csproj.GenerateResource.cache
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\obj\Release\SecureDesktop-GUI.csproj.CoreCompileInputs.cache
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\obj\Release\SecureDesktop-GUI.exe
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\obj\Release\SecureDesktop-GUI.pdb
+C:\Users\Master Abduls\Downloads\Compressed\Secure-Desktop-master\Secure-Desktop-master\SecureDesktop-GUI\obj\Release\SecureDesktop-GUI.csprojAssemblyReference.cache

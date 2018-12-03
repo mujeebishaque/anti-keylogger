@@ -2,6 +2,8 @@
 
 
 >Anti-keylogger that creates another desktop for writing files. 
+
+
 > Magestic is a made-up word. (Mag = Magie), just wanted the name to be a bit cooler
 
 ![alt text](https://github.com/mistermj/anti-keylogger/blob/master/Screenshot%20(26).png)

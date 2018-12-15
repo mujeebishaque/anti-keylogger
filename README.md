@@ -15,6 +15,8 @@ http://www.codingvision.net/security/c-create-secure-desktop-anti-keylogger
 
 ##### You can run the executables/application in the debug and release folder for quick demonstration.
 
+#### As this is a windows form application, you SHOULD downgrade the version of .net from 4 to 2 for making it work properly;
+
 ## License
 
 MIT
